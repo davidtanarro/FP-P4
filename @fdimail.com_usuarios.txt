@@ -1,0 +1,41 @@
+a@fdimail.com
+a
+4
+b@fdimail.com_1431773099		1
+b@fdimail.com_1431773167		1
+c@fdimail.com_1431773216		1
+b@fdimail.com_1431773647		1
+3
+a@fdimail.com_1431773134		1
+a@fdimail.com_1431773625		1
+a@fdimail.com_1431773708		1
+b@fdimail.com
+b
+2
+a@fdimail.com_1431773134		1
+a@fdimail.com_1431773625		1
+3
+b@fdimail.com_1431773099		1
+b@fdimail.com_1431773167		1
+b@fdimail.com_1431773647		1
+c@fdimail.com
+c
+1
+a@fdimail.com_1431773708		0
+1
+c@fdimail.com_1431773216		1
+d@fdimail.com
+d
+1
+e@fdimail.com_1472935106		1
+1
+d@fdimail.com_1472935228		1
+e@fdimail.com
+e
+2
+e@fdimail.com_1472935025		0
+d@fdimail.com_1472935228		1
+2
+e@fdimail.com_1472935025		1
+e@fdimail.com_1472935106		1
+XXX
